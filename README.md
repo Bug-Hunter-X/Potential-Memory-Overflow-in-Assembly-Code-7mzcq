@@ -1,0 +1,1 @@
+This repository demonstrates a potential memory overflow bug in assembly code and its solution. The bug arises from unchecked multiplication in a memory access instruction. The solution involves adding bounds checking to prevent the overflow.
